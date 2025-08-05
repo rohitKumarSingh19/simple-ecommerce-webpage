@@ -1,4 +1,6 @@
 Frontend- https://fakestore-product-display.netlify.app/
+
+
 # 🛍️ FakeStore Product Display App
 
 This is a simple frontend web application that displays product data fetched from the [FakeStore API](https://fakestoreapi.com/). Users can **browse**, **filter**, and **sort** products using a modern, responsive UI built with HTML, CSS, and JavaScript.
